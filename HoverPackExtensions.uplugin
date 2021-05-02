@@ -1,0 +1,26 @@
+{
+	"FileVersion": 3,
+	"Version": 0,
+	"VersionName": "0.1.0",
+	"SemVersion": "0.1.0",
+	"FriendlyName": "Hover Pack Extensions",
+	"Description": "Hover Pack Extensions. Because anything can be made faster by adding a spoiler!",
+	"Category": "Modding",
+	"CreatedBy": "Hock",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Plugins": [
+		{
+			"Enabled": true,
+			"Name": "SML",
+			"SemVersion": "^3.0.0",
+			"bIsOptional": false
+		}
+	]
+}
